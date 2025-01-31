@@ -1,0 +1,29 @@
+commit c06865f840434e79543e97ce20d01b7613ca0b17
+Author: Rosawill <rosemarymadelene@gmail.com>
+Date:   Fri Jan 31 13:01:11 2025 -0800
+
+    updating gitignore
+
+commit 1864eb5a351375114975e94cc789168823cc27a9
+Author: Rosawill <rosemarymadelene@gmail.com>
+Date:   Fri Jan 31 12:59:43 2025 -0800
+
+    added gitignore
+
+commit 4fbc7ed0b31c10dd8733be7c39f7ecca229f721f
+Author: Rosawill <rosemarymadelene@gmail.com>
+Date:   Fri Jan 31 12:57:12 2025 -0800
+
+    adding two new files
+
+commit a6d5fb236698bbcd31d9b91276f44256fbe5bde4
+Author: Rosawill <rosemarymadelene@gmail.com>
+Date:   Fri Jan 31 12:56:10 2025 -0800
+
+    updated readme
+
+commit 11f182d8a8597eb7ce84c328efae655c767a6a7e
+Author: Rosawill <rosemarymadelene@gmail.com>
+Date:   Fri Jan 31 12:55:32 2025 -0800
+
+    Making a new file
